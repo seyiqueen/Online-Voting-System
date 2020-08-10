@@ -1,0 +1,23 @@
+.candidatedashboardalign{
+    margin-left: 400px;
+    margin-top: -122px;
+}
+
+.participatedpartiesdashboardalign{
+    margin-left: 800px;
+    margin-top: -122px;
+}
+.votersdashboardalign{
+    margin-left: 400px;
+    margin-top: -122px;
+}
+.nonvotersdashboardalign{
+    margin-left: 800px;
+    margin-top: -122px;
+}
+tr{
+	height:40px;
+}
+.th{
+	width:100px;
+}
